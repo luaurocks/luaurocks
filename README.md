@@ -1,3 +1,2 @@
-# LuaURocks
 ## About
-LuaURocks is a package manager for LuaU programming language.
+Nothing to see here yet...
